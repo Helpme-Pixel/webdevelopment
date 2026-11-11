@@ -1,0 +1,28 @@
+body {
+    font-family: verdana;
+    font-size: 1.1em;
+    background-color: silver;
+    color: darkblue;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: red;
+}
+
+a:hover{
+    display: inline-block;
+    border: black solid 2em;
+}
+
+.stippeltjesrand {
+    border: 1px dotted #2B2D42;
+}
+
+a {
+    padding-left: 22px;
+    background-image: url("images/winston.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px;
+}
