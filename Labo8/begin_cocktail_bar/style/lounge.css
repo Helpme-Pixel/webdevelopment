@@ -1,0 +1,77 @@
+body{
+    width: 95%;
+    height: 95%;
+}
+h1{
+    color: #007e7e;
+    font-size: 150%;
+    font-family: Verdana, Geneva, sans-serif;
+}
+h2{
+    color: #007e7e;
+    font-size: 130%;
+    font-family: Verdana, Geneva, sans-serif;
+}
+header{
+    text-align: center;
+}
+aside {
+    a:hover {
+        background: saddlebrown;
+    }
+    float: right;
+    width: 25%;
+    margin-top: 1px;
+    border: 2px solid #007e7e;
+    text-align: center;
+}
+article {
+    float: left;
+    width: 70%;
+    color: #444444;
+}
+.color{
+    color: #444444;
+}
+.zwart{
+    color: black;
+    background-image: url("images/cocktail.gif");
+    background-position: top center;
+    height: 70px;
+    margin-bottom: 1px;
+}
+.geel{
+    color: yellow;
+}
+.rood {
+    color: orange;
+}
+.paars {
+    color: purple;
+}
+#guarantee {
+    img {
+        float: left;
+
+    }
+    margin: 30px;
+    padding: 20px;
+    background: #a7cece;
+    border: 1px dotted white;
+    font: 1.2em Arial;
+}
+a {
+    color: #444444;
+}
+.cd {
+    font-style: italic;
+}
+.artist {
+    font-weight: bold;
+}
+footer{
+    float: right;
+    text-align: center;
+    font-size: 50%;
+    width: 100%;
+}
